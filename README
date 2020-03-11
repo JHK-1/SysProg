@@ -1,0 +1,4 @@
+Firstly upload ALSA Framework by using command:
+1)sudo apt-get install alsa
+Then compile file kuka.c and run file. 
+There will be instructions after you launched compiled program.
